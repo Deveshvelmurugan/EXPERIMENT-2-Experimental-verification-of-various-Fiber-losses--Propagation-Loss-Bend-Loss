@@ -42,7 +42,8 @@ V1/V2 = e [ -a (L1+L2 ) ]
 | 0.5 for 6.4 cm   |        5            |             9.76       |
 
 ## Calulation:
-![WhatsApp Image 2025-11-16 at 21 38 57_be622e46](https://github.com/user-attachments/assets/bad5298c-054e-40a1-9797-c43340397656)
+![WhatsApp Image 2025-11-16 at 23 43 32_9112852b](https://github.com/user-attachments/assets/8ea0bfca-6c91-41bf-938d-34141674fe81)
+
 
 
 ## Result:
